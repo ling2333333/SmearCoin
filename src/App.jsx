@@ -68,7 +68,7 @@ function App() {
           <input
             type="email"
             name="correo"
-            placeholder="Correo electrónico (opcional)"
+            placeholder="Correo electrónico"
             value={formData.correo}
             onChange={handleChange}
           />
